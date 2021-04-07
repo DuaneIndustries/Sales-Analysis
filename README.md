@@ -13,6 +13,8 @@ This project contains a breakdown of our top ten items by both units sold and gr
 ![Blend_sales_2020_j](https://user-images.githubusercontent.com/69173891/113904799-7517fd00-97a0-11eb-9a9e-4792bf2910d6.jpg)
 
 
+
+
 # August Tip Report
 
 For this project we analyzed a month of cafe transactions to decide whether or not it would be beneficial to add a preset 15% gratuity to our online sales.  We had shifted a significant amount of our business online at this point as a result of COVID restrictions, and wanted to make sure this shift didn't disproportionally affect our tipped employees.  As a result of this analysis, we incorporated a 15% gratuity preset for our online sales which improved the consistency in our overall gratuity. 
